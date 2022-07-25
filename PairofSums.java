@@ -170,12 +170,7 @@ public class PairofSums {
 	    // Driver program to test above functions
 	    public static void main(String[] args)
 	    {
-	    	/*
-	    				15
-	    				/ \
-	    			10 20
-	    			/ \ / \
-	    			8 12 16 25 */
+
 	    	node root = NewNode(40);
 	    	root.left = NewNode(20);
 	    	root.right = NewNode(60);
